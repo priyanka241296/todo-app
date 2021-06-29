@@ -43,7 +43,6 @@ const AddList = () => {
 
   return (
     <>
-      <h1>Todo App</h1>
       {error && (
         <ErrorModal
           title={error.title}
