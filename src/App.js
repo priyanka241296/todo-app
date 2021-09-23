@@ -4,6 +4,7 @@ import TodoList from "./Components/Lists/TodoList";
 const App = () => {
   return (
     <>
+    <p>Welcome TodoList</p>
       <AddList />
     </>
   );
